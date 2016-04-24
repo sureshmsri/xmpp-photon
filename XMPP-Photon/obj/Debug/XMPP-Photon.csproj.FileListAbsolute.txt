@@ -1,0 +1,15 @@
+c:\users\windows phone\documents\visual studio 2013\Projects\Neggocios IT\XMPP-Photon\XMPP-Photon\Bin\Debug\XMPP-Photon.dll
+c:\users\windows phone\documents\visual studio 2013\Projects\Neggocios IT\XMPP-Photon\XMPP-Photon\Bin\Debug\XMPP-Photon.pdb
+c:\users\windows phone\documents\visual studio 2013\Projects\Neggocios IT\XMPP-Photon\XMPP-Photon\Bin\Debug\phone.socketserver.dll
+c:\users\windows phone\documents\visual studio 2013\Projects\Neggocios IT\XMPP-Photon\XMPP-Photon\obj\Debug\XMPP-Photon.dll
+c:\users\windows phone\documents\visual studio 2013\Projects\Neggocios IT\XMPP-Photon\XMPP-Photon\obj\Debug\XMPP-Photon.pdb
+c:\users\windows phone\documents\visual studio 2013\Projects\Neggocios IT\XMPP-Photon\XMPP-Photon\obj\Debug\XMPP-Photon.csprojResolveAssemblyReference.cache
+F:\Repository\xmpp-photon\XMPP-Photon\XMPP-Photon\Bin\Debug\XMPP-Photon.dll
+F:\Repository\xmpp-photon\XMPP-Photon\XMPP-Photon\Bin\Debug\XMPP-Photon.pdb
+F:\Repository\xmpp-photon\XMPP-Photon\XMPP-Photon\obj\Debug\XMPP-Photon.dll
+F:\Repository\xmpp-photon\XMPP-Photon\XMPP-Photon\obj\Debug\XMPP-Photon.pdb
+F:\Repository\xmpp-photon\XMPP-Photon\XMPP-Photon\obj\Debug\XMPP-Photon.csprojResolveAssemblyReference.cache
+F:\Windows Repository\XMPP\xmpp-photon\XMPP-Photon\XMPP-Photon\Bin\Debug\XMPP-Photon.dll
+F:\Windows Repository\XMPP\xmpp-photon\XMPP-Photon\XMPP-Photon\Bin\Debug\XMPP-Photon.pdb
+F:\Windows Repository\XMPP\xmpp-photon\XMPP-Photon\XMPP-Photon\obj\Debug\XMPP-Photon.dll
+F:\Windows Repository\XMPP\xmpp-photon\XMPP-Photon\XMPP-Photon\obj\Debug\XMPP-Photon.pdb
